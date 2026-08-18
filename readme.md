@@ -1,6 +1,6 @@
-# 3D Matrix Digital Rain Screensaver
+# 3D Matrix Digital Rain 
 
-A high-density, high-performance, and visually accurate replication of the iconic **Matrix Digital Rain** effect, optimized to run as a native macOS screensaver (`.saver`) using Vanilla JavaScript and HTML5 Canvas.
+A high-density, high-performance, and visually accurate replication of the iconic **Matrix Digital Rain** effect, using Vanilla JavaScript and HTML5 Canvas.
 
 ## 🚀 Features
 * **True 3D Depth:** Three completely independent rendering layers (Background, Midground, Foreground) with scaled font sizes, custom opacities, falling speeds, and proper depth sorting.
